@@ -1,0 +1,11 @@
+{
+    "products":[
+        {"id" : 1, "name" : "realme1", "price" : 20000, "image" : "Plant.png"},
+        {"id" : 2, "name" : "realme2", "price" : 21000, "image" : "Plant.png"},
+        {"id" : 3, "name" : "realme3", "price" : 22000, "image" : "Plant.png"},
+        {"id" : 4, "name" : "realme4", "price" : 23000, "image" : "Plant.png"},
+        {"id" : 5, "name" : "realme5", "price" : 24000, "image" : "Plant.png"},
+        {"id" : 6, "name" : "realme6", "price" : 25000, "image" : "Plant.png"},
+        {"id" : 7, "name" : "realme7", "price" : 26000, "image" : "Plant.png"}
+    ]
+}
